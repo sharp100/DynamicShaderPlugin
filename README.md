@@ -34,23 +34,23 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 - [shader.getLightTable()](getLightTable.markdown)
 
 ####Adding and Removing Objects
-- __[shader.addObject()](addObject.markdown)__
-- __[shader.removeObject()](removeObject.markdown)__
-- __[shader.getObjectList()](getObjectList.markdown)__
+- [shader.addObject()](addObject.markdown)
+- [shader.removeObject()](removeObject.markdown)
+- [shader.getObjectList()](getObjectList.markdown)
 
 ####Adjusting Shading Parameters
-- __[shader.setAlpha()](setAlpha.markdown)__
-- __[shader.setIntensity()](setIntensity.markdown)__
-- __[shader.setZValue()](setZValue.markdown)__
-- __[shader.setConstant()](setConstant.markdown)__
-- __[shader.setLinear()](setLinear.markdown)__
-- __[shader.setQuadratic()](setQuadratic.markdown)__
+- [shader.setAlpha()](setAlpha.markdown)
+- [shader.setIntensity()](setIntensity.markdown)
+- [shader.setZValue()](setZValue.markdown)
+- [shader.setConstant()](setConstant.markdown)
+- [shader.setLinear()](setLinear.markdown)
+- [shader.setQuadratic()](setQuadratic.markdown)
 
 ####Controlling the Dynamic Shading Engine
-- __[shader.start()](start.markdown)__
-- __[shader.stop()](stop.markdown)__
-- __[shader.destroy()](destroy.markdown)__
-- __[shader.getEngineState()](getEngineState.markdown)__
+- [shader.start()](start.markdown)
+- [shader.stop()](stop.markdown)
+- [shader.destroy()](destroy.markdown)
+- [shader.getEngineState()](getEngineState.markdown)
 
 ### Properties
 
