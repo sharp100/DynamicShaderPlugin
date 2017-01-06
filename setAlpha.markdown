@@ -25,9 +25,10 @@ The [number](https://docs.coronalabs.com/api/type/Number.html) is a value betwee
 ``````lua
 local shader = require 'plugin.dynamic-shader'
 
-shader.setAlpha( 0.50 ) -- sets the alpha value for the Dynamic Shader
+shader.setAlpha( 0.5 ) -- sets the alpha value for the Dynamic Shader to 50%
 
 local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
+
 print(lighTable.alpha)
 -- 0.5
 
