@@ -19,7 +19,7 @@ Used to set the color of the light source added to the Dynamic Shader via [addLi
 	shader.setLightColor( table )
 
 ##### table <small>(required)</small>
-_[Table](http://docs.coronalabs.com/api/type/Table.html)._ a table with RGB values
+_[Table](http://docs.coronalabs.com/api/type/Table.html)_  A table with RGB values
 
 
 ### Format for `table`
@@ -35,7 +35,7 @@ _[Table](http://docs.coronalabs.com/api/type/Table.html)._ a table with RGB valu
 ## Examples
 
 ``````lua
-local PLUGIN_NAME = require 'plugin.PLUGIN_NAME'
+local shader = require 'plugin.dynamic-shader'
 
-PLUGIN_NAME.FUNCTION( ARG1 )
+shader.setLightColor( table )
 ``````
