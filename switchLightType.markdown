@@ -29,9 +29,10 @@ Switches between [directional light](https://docs.coronalabs.com/guide/graphics/
 ``````lua
 local shader = require 'plugin.dynamic-shader'
 
+-- example with no return values
 shader.switchLightType( )
 
-------
+-- example with return values
 local lightType, lightTypeName = shader.switchLightType( )
 
 ``````
