@@ -11,7 +11,7 @@
 
 ## Overview
 
-Add an object which will act as the light source for the Dynamic Shader
+Add an object which will act as the light source for the Dynamic Shader.  The object will replace a previously added light.
 
 
 ## Syntax
