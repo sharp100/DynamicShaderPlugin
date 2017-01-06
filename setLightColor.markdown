@@ -36,5 +36,7 @@ _[Table](http://docs.coronalabs.com/api/type/Table.html)_  A table with RGB valu
 ``````lua
 local shader = require 'plugin.dynamic-shader'
 
+local table = {1, 1, 1}
 shader.setLightColor( table )
+-- sets Dynamic Shader color to white
 ``````
