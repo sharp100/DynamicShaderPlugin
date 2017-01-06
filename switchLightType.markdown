@@ -4,7 +4,7 @@
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
-| __Return value__     | 
+| __Return value__     | lightType, lightTypeName
 | __Keywords__         | 
 | __See also__         | 
 
@@ -19,7 +19,7 @@ Switches between [directional light](https://docs.coronalabs.com/guide/graphics/
 
 	shader.switchLightType( )
   
-  *returns* lightType, lightTypeName
+  _*returns*_ lightType, lightTypeName
   
   - lightType = "composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"
   - lightTypeName = "directional light" or "1 point light"
