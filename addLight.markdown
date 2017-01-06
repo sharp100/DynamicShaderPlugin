@@ -4,7 +4,7 @@
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
-| __Return value__     | [TYPE]()
+| __Return value__     | 
 | __Keywords__         | 
 | __See also__         | 
 
