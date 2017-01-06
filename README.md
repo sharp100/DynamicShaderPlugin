@@ -1,9 +1,6 @@
 # DynamicShaderPlugin
 A Corona SDK plug-in for dynamically shading display objects in real time
 
-__*[NOTE]:*__ See [Instructions](Instructions.markdown) for these stub documentation files. (Remove this before you deploy your docs)
-
-
 # Dynamic Shader: Plugin API Docs
 
 |                      | &nbsp; 
