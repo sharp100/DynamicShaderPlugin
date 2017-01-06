@@ -25,9 +25,9 @@ _[Table](http://docs.coronalabs.com/api/type/Table.html)_  A table with RGB valu
 ### Format for `table`
   table = {r, g, b}
 
-  r = red value (0 to 1)
-  g = green value (0 to 1)
-  b = red value (0 to 1)
+  - r = red value (0 to 1)
+  - g = green value (0 to 1)
+  - b = red value (0 to 1)
   
   *alpha values are set by* [setAlpha()](setAlpha.markdown)
 
