@@ -25,38 +25,28 @@ The Dynamic Shader plugin can be used in your [Corona](https://coronalabs.com/pr
 ### Functions
 
 ##### [shader.addLight()](addLight.markdown)
+##### [shader.removeLight()](removeLight.markdown)
+##### [shader.setLightColor()](setLightColor.markdown)
+##### [shader.getLightSource()](getLightSource.markdown)
+##### [shader.getLightTable()](getLightTable.markdown)
 
-##### [shader.printTable()](printTable.markdown)
+##### [shader.addObject()](addObject.markdown)
+##### [shader.removeObject()](removeObject.markdown)
+##### [shader.getObjectList()](getObjectList.markdown)
 
-##### [shader.saveTable()](saveTable.markdown)
+##### [shader.setLightType()](setLightType.markdown)
 
-##### [shader.FUNCTION()](FUNCTION.markdown)
---addLight()
-removeLight()
-getLightSource()
-setLightColor()
-getLightTable()
+##### [shader.setAlpha()](setAlpha.markdown)
+##### [shader.setIntensity()](setIntensity.markdown)
+##### [shader.setZValue()](setZValue.markdown)
+##### [shader.setConstant()](setConstant.markdown)
+##### [shader.setLinear()](setLinear.markdown)
+##### [shader.setQuadratic()](setQuadratic.markdown)
 
-addObject()
-removeObject()
-getObjectList()
-
-setLightType()
-
-setAlpha()
-setIntensity()
-setZValue()
-
-setConstant()
-setLinear()
-setQuadratic()
-
-start()
-stop()
-destroy()
-getEngineState()
-
-
+##### [shader.start()](start.markdown)
+##### [shader.stop()](stop.markdown)
+##### [shader.destroy()](destroy.markdown)
+##### [shader.getEngineState()](getEngineState.markdown)
 
 ### Properties
 
@@ -66,7 +56,7 @@ getEngineState()
 
 ### Corona Store Activation
 
-In order to use this plugin, you must activate the plugin at the [Corona Store](http://store.coronalabs.com/plugin/PLUGIN_NAME).
+In order to use this plugin, you must activate the plugin at the [Corona Store](http://store.coronalabs.com/plugin/dynamic-shader).
 
 
 ### SDK
@@ -81,7 +71,7 @@ settings =
 	plugins =
 	{
 		-- key is the name passed to Lua's 'require()'
-		["plugin.PLUGIN_NAME"] =
+		["plugin.dynamic-shader"] =
 		{
 			-- required
 			publisherId = "REVERSE_PUBLISHER_URL",
@@ -92,7 +82,7 @@ settings =
 
 ### Enterprise
 
-If you have activated this plugin, you can download this plugin from the corresponding plugin page in the [Corona Store](http://store.coronalabs.com/plugin/PLUGIN_NAME).
+If you have activated this plugin, you can download this plugin from the corresponding plugin page in the [Corona Store](http://store.coronalabs.com/plugin/dynamic-shader).
 
 
 ## Platform-specific Notes
@@ -119,15 +109,15 @@ More support is available from the PUBLISHER_NAME team:
 
 | Platform                     | Supported
 | ---------------------------- | ---------------------------- 
-| iOS                          | No
-| Android                      | No
+| iOS                          | Yes
+| Android                      | Yes
 | Android (GameStick)          | No
-| Android (Kindle)             | No
-| Android (NOOK)               | No
+| Android (Kindle)             | Yes
+| Android (NOOK)               | Yes
 | Android (Ouya)               | No
-| Mac App                      | No
-| Win32 App                    | No
+| Mac App                      | Yes
+| Win32 App                    | Yes
 | Windows Phone 8              | No
-| Corona Simulator (Mac)       | No
-| Corona Simulator (Win)       | No
+| Corona Simulator (Mac)       | Yes
+| Corona Simulator (Win)       | Yes
 
