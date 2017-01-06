@@ -16,7 +16,7 @@ Used to set the alpha value of the light source added to the Dynamic Shader via 
 
 ## Syntax
 
-	shader.setAlpha( [number](https://docs.coronalabs.com/api/type/Number.html) )
+	shader.setAlpha( number )
 
 The [number](https://docs.coronalabs.com/api/type/Number.html) is a value between 0 and 1
 
