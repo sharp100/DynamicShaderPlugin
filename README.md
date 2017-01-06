@@ -4,7 +4,7 @@ A Corona SDK plug-in for dynamically shading display objects in real time
 __*[NOTE]:*__ See [Instructions](Instructions.markdown) for these stub documentation files. (Remove this before you deploy your docs)
 
 
-# PLUGIN_NAME: Plugin API Docs
+# Dynamic Shader: Plugin API Docs
 
 |                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
@@ -15,22 +15,47 @@ __*[NOTE]:*__ See [Instructions](Instructions.markdown) for these stub documenta
 
 ## Overview
 
-The Dynamic Shader plugin can be used in your [Corona](https://coronalabs.com/products/corona-sdk/) project. It enables you to add real time shading to your display objects. REQUIRES a normal map file for every different object you want to shade.
+The Dynamic Shader plugin can be used in your [Corona](https://coronalabs.com/products/corona-sdk/) project. It enables you to add real time shading to your display objects. The plugin REQUIRES a matching normal map file for each object you file you are shading.
 
 
 ## Syntax
 
-	local PLUGIN_NAME = require "plugin.dynamic-shader"
+	local shader = require "plugin.dynamic-shader"
 
 ### Functions
 
-##### [PLUGIN_NAME.loadTable()](loadTable.markdown)
+##### [shader.addLight()](addLight.markdown)
 
-##### [PLUGIN_NAME.printTable()](printTable.markdown)
+##### [shader.printTable()](printTable.markdown)
 
-##### [PLUGIN_NAME.saveTable()](saveTable.markdown)
+##### [shader.saveTable()](saveTable.markdown)
 
-##### [PLUGIN_NAME.FUNCTION()](FUNCTION.markdown)
+##### [shader.FUNCTION()](FUNCTION.markdown)
+--addLight()
+removeLight()
+getLightSource()
+setLightColor()
+getLightTable()
+
+addObject()
+removeObject()
+getObjectList()
+
+setLightType()
+
+setAlpha()
+setIntensity()
+setZValue()
+
+setConstant()
+setLinear()
+setQuadratic()
+
+start()
+stop()
+destroy()
+getEngineState()
+
 
 
 ### Properties
