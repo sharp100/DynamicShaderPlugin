@@ -24,7 +24,7 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 	local shader = require "plugin.dynamic-shader"
 
 ### Functions
-
+__Light Source__ 
 ##### [shader.addLight()](addLight.markdown)
 ##### [shader.removeLight()](removeLight.markdown)
 ##### [shader.setLightColor()](setLightColor.markdown)
