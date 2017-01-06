@@ -6,7 +6,7 @@
 | __Library__          | [shader.*](README.md)
 | __Return value__     | 
 | __Keywords__         | 
-| __See also__         | [setAlpha()](setAlpha.markdown), [setIntensity()](setIntensity.markdown), [zValue()](zValue.markdown), [setConstant()](setConstant.markdown), [setLinear()](setLinear.markdown), [setQuadratic()](setQuadratic.markdown)
+| __See also__         | [setAlpha()](setAlpha.markdown),  [setIntensity()](setIntensity.markdown),  [zValue()](zValue.markdown), [setConstant()](setConstant.markdown),  [setLinear()](setLinear.markdown),  [setQuadratic()](setQuadratic.markdown)
 
 
 ## Overview
@@ -18,7 +18,7 @@ Used to set the alpha value of the light source added to the Dynamic Shader via 
 
 	shader.setAlpha( number )
 
-The [number](https://docs.coronalabs.com/api/type/Number.html) is a value between 0 and 1
+[number](https://docs.coronalabs.com/api/type/Number.html) is a value between 0 and 1
 
 ## Examples
 
@@ -29,7 +29,7 @@ shader.setAlpha( 0.5 ) -- sets the alpha value for the Dynamic Shader to 50%
 
 local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
 
-print(lighTable.alpha)
+print(lightTable.alpha)
 -- 0.5
 
 
