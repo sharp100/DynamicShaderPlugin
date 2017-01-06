@@ -33,7 +33,7 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 - __[shader.getLightSource()](getLightSource.markdown)__
 - __[shader.getLightTable()](getLightTable.markdown)__
 
-####Adding and Removing Objects 
+####Adding and Removing Objects
 - __[shader.addObject()](addObject.markdown)__
 - __[shader.removeObject()](removeObject.markdown)__
 - __[shader.getObjectList()](getObjectList.markdown)__
