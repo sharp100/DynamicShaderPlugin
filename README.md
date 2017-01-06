@@ -21,17 +21,17 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 
 ## Syntax
 
-	local shader = require "plugin.dynamic-shader"
+	local dynamicShader = require "plugin.dynamic-shader"
 
 ### Functions
 
 ####Controlling the Light Source 
-- __[shader.addLight()](addLight.markdown)__
-- __[shader.removeLight()](removeLight.markdown)__
-- __[shader.setLightColor()](setLightColor.markdown)__
-- __[shader.setLightType()](setLightType.markdown)__
-- __[shader.getLightSource()](getLightSource.markdown)__
-- __[shader.getLightTable()](getLightTable.markdown)__
+- __[dynamicShader.addLight()](addLight.markdown)__
+- __[dynamicShader.removeLight()](removeLight.markdown)__
+- __[dynamicShader.setLightColor()](setLightColor.markdown)__
+- __[dynamicShader.setLightType()](setLightType.markdown)__
+- __[dynamicShader.getLightSource()](getLightSource.markdown)__
+- __[dynamicShader.getLightTable()](getLightTable.markdown)__
 
 ####Adding and Removing Objects
 - __[shader.addObject()](addObject.markdown)__
