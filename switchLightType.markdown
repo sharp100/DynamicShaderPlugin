@@ -21,8 +21,8 @@ Switches between [directional light](https://docs.coronalabs.com/guide/graphics/
   
   _*returns*_ lightType, lightTypeName
   
-  - lightType = "composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"
-  - lightTypeName = "directional light" or "1 point light"
+  - lightType = ["composite.normalMapWith1DirLight"](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1dirlight) or ["composite.normalMapWith1PointLight"](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight)
+  - lightTypeName = ["directional light"](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1dirlight) or ["1 point light"](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight)
   
 ## Examples
 
