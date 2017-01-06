@@ -3,7 +3,7 @@
 |                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
-| __Library__          | [PLUGIN_NAME.*](Readme.markdown)
+| __Library__          | [Dynamic Shader.*](Readme.markdown)
 | __Return value__     | [TYPE]()
 | __Keywords__         | 
 | __See also__         | 
@@ -11,15 +11,15 @@
 
 ## Overview
 
-This function does...
+Add an object which will act as the light source for the Dynamic Shader
 
 
 ## Syntax
 
-	PLUGIN_NAME.FUNCTION( ARG1 )
-	PLUGIN_NAME.FUNCTION( ARG1, options )
+	shader.addLight( object )
 
-##### ARG1 <small>(required)</small>
+
+##### object <small>(required)</small>
 _[TYPE]()._ Short description goes here.
 
 ##### options <small>(optional)</small>
