@@ -6,7 +6,7 @@
 | __Library__          | [shader.*](README.md)
 | __Return value__     | 
 | __Keywords__         | 
-| __See also__         | [setIntensity()](setIntensity.markdown), [zValue()](zValue.markdown), [setConstant()](setConstant.markdown), [setLinear()](setLinear.markdown), [setQuadratic()](setQuadratic.markdown)
+| __See also__         | [setIntensity()](setIntensity.markdown), [setZValue()](setZValue.markdown), [setConstant()](setConstant.markdown), [setLinear()](setLinear.markdown), [setQuadratic()](setQuadratic.markdown)
 
 
 ## Overview
