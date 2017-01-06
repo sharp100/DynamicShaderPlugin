@@ -19,10 +19,10 @@ Switches between [directional light](https://docs.coronalabs.com/guide/graphics/
 
 	shader.switchLightType( )
   
-  returns lightType, lightTypeName
+  *returns* lightType, lightTypeName
   
-  lightType = "composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"
-  lightTypeName = "directional light" or "1 point light"
+  - lightType = "composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"
+  - lightTypeName = "directional light" or "1 point light"
   
 ## Examples
 
