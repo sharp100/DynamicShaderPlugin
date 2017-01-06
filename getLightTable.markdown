@@ -1,4 +1,4 @@
-# shader.getLightTable.markdown()
+# shader.getLightTable()
 
 |                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
