@@ -35,7 +35,7 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 
 ####Adding and Removing Objects 
 - __[shader.addObject()](addObject.markdown)__
-- __shader.removeObject()](removeObject.markdown)__
+- __[shader.removeObject()](removeObject.markdown)__
 - __[shader.getObjectList()](getObjectList.markdown)__
 
 ####Adjusting Shading Parameters
