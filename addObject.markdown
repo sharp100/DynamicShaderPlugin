@@ -36,5 +36,7 @@ object.shaderInfo.map1 = "art/object.png"   -- reference the image file
 object.shaderInfo.map2 = "art/object_n.png" -- refernece the normal map file
 -----------------------------------
 
-shader.addObject( object )
+shader.addObject( object )  -- add object to the Dynamic Shader
+
+shader.start()  -- turn on the Dynamic Shader
 ``````
