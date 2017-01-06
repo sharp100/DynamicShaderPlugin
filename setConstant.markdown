@@ -11,9 +11,11 @@
 
 ## Overview
 
-Used to set the constant value for light attenuation in the Dynamic Shader's 1 Point Light setting.
-The [light attenuation](https://developer.valvesoftware.com/wiki/Constant-Linear-Quadratic_Falloff) table consists of three values {constant, linear, quadratic)
-The ratio of the 3 values
+Used to set the *constant* value for light attenuation in the Dynamic Shader's [1 Point Light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight).
+The [light attenuation](https://developer.valvesoftware.com/wiki/Constant-Linear-Quadratic_Falloff) table consists of three values {constant, linear, quadratic}
+The ratio of the 3 values determines the behavior of the Dynamic Shader's [1 Point Light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight).
+
+__Not used with__ [directional light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1dirlight)
 
 
 ## Syntax
@@ -27,11 +29,11 @@ The ratio of the 3 values
 ``````lua
 local shader = require 'plugin.dynamic-shader'
 
-shader.setZValue( 0.5 ) -- sets the position of the z-axis for the light used by the Dynamic Shader
+shader.setConstant( 0.5 ) -- sets the "constant" value for light attenuation in the Dynamic Shader's 1 Point Light setting
 
 local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
 
-print(lightTable.zValue)
+print(lightTable.constant)
 -- 0.5
 
 
