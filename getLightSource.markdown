@@ -26,9 +26,10 @@ Returns the Dynamic Shaader object assigned as the light source via [setLightCol
 ``````lua
 local shader = require 'plugin.dynamic-shader'
 
+-- example with no return value
 shader.getLightSource( )
 
-------
+-- example with return value
 local lightSource = shader.getLightSource( )
 
 ``````
