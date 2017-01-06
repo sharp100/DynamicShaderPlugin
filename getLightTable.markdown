@@ -25,7 +25,7 @@ local pointLight = "composite.normalMapWith1PointLight"
 local dirLightName = "directional light"
 local pointLightName = "1 point light"
   - table.effect = string
-  > "composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"
+  `"composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"`
   - table.effectName = "directional light" or "1 point light"
   - table.zValue = a value from 0 to 1 
   - table.alpha = a value from 0 to 1 
