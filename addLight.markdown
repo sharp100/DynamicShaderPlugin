@@ -3,7 +3,7 @@
 |                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
-| __Library__          | [Dynamic Shader.*](Readme.md)
+| __Library__          | [shader.*](Readme.md)
 | __Return value__     | [TYPE]()
 | __Keywords__         | 
 | __See also__         | 
@@ -20,24 +20,12 @@ Add an object which will act as the light source for the Dynamic Shader
 
 
 ##### object <small>(required)</small>
-_[TYPE]()._ Short description goes here.
-
-##### options <small>(optional)</small>
-_[Table](http://docs.coronalabs.com/api/type/Table.html)._ Short description goes here. See **Format for options** below.
-
-
-### Format for `options`
-
-The `options` table contains the following properties:
-
-##### PROPERTY1 <small>(required)</small>
-_[TYPE]()._ Short description goes here.
-
+_[object]()._ a display object or physics object.  A table with object.x and object.y values can also be used at your own risk.
 
 ## Examples
 
 ``````lua
-local PLUGIN_NAME = require 'plugin.PLUGIN_NAME'
+local shader = require 'plugin.dynamic-shader'
 
-PLUGIN_NAME.FUNCTION( ARG1 )
+shader.addLight( object )
 ``````
