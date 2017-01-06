@@ -26,14 +26,22 @@ local dirLightName = "directional light"
 local pointLightName = "1 point light"
   - table.effect = string
   `"composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"`
-  - table.effectName = "directional light" or "1 point light"
-  - table.zValue = a value from 0 to 1 
-  - table.alpha = a value from 0 to 1 
-  - table.color = {1, 1, 1, 1}, 
-  - table.intensity = a value from 0 to 1 
-  - table.constant = a value from 0 to 1  
-  - table.linear = a value from 0 to 1 
-  - table.quadratic = a value from 0 to 1 
+  - table.effectName = string
+  `"directional light" or "1 point light"`
+  - table.color = table
+  `table = {red, blue, greed, alpha}`
+  - table.zValue = number
+  `a value from 0 to 1` 
+  - table.alpha = number
+  `a value from 0 to 1` 
+  - table.intensity = number
+  `a value from 0 to 1` 
+  - table.constant = number
+  `a value from 0 to 1`  
+  - table.linear = number
+  `a value from 0 to 1` 
+  - table.quadratic = number
+  `a value from 0 to 1` 
   - table.engine = Boolean
   
 ## Examples
