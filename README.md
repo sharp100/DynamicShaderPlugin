@@ -5,8 +5,8 @@ A Corona SDK plug-in for dynamically shading display objects in real time
 
 |                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
-| __Type__             | [TYPE](http://docs.coronalabs.com/api/type/Library.html)
-| __Corona Store__     | [PLUGIN_NAME](http://store.coronalabs.com/plugin/dynamic-shader)
+| __Type__             | [Library](http://docs.coronalabs.com/api/type/Library.html)
+| __Corona Store__     | [Dynamic Shader](http://store.coronalabs.com/plugin/dynamic-shader)
 | __Keywords__         | 
 | __See also__         | 
 
