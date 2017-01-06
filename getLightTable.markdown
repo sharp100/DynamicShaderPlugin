@@ -4,7 +4,7 @@
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
-| __Return value__     | table
+| __Return value__     | [table](https://docs.coronalabs.com/api/type/Table.html)
 | __Keywords__         | 
 | __See also__         | 
 
@@ -21,25 +21,25 @@ Returns a table with the current values used by the Dynamic Shader
   
   *returns* a __table__ with the current values used by the Dynamic Shader
   
-  - table.effect	= string
+  - table.effect	= [string](https://docs.coronalabs.com/api/type/String.html)
   `"composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"`
-  - table.effectName	= string
+  - table.effectName	= [string](https://docs.coronalabs.com/api/type/String.html)
   `"directional light" or "1 point light"`
-  - table.color		= table
+  - table.color		= [table](https://docs.coronalabs.com/api/type/Table.html)
   `table = {red, blue, greed, alpha}`
-  - table.zValue	= number
+  - table.zValue	= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1` 
-  - table.alpha		= number
+  - table.alpha		= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1` 
-  - table.intensity	= number
+  - table.intensity	= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1` 
-  - table.constant	= number
+  - table.constant	= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1`  
-  - table.linear	= number
+  - table.linear	= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1` 
-  - table.quadratic	= number
+  - table.quadratic	= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1` 
-  - table.engine	= Boolean
+  - table.engine	= [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
   `true = "shader on" , false = "shader off"`
    
 ## Examples
