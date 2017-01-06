@@ -25,7 +25,7 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 
 ### Functions
 
-__Controlling the Light Source__ 
+#Controlling the Light Source 
 ##### [shader.addLight()](addLight.markdown)
 ##### [shader.removeLight()](removeLight.markdown)
 ##### [shader.setLightColor()](setLightColor.markdown)
@@ -33,12 +33,12 @@ __Controlling the Light Source__
 ##### [shader.getLightSource()](getLightSource.markdown)
 ##### [shader.getLightTable()](getLightTable.markdown)
 
-__Adding and Removing Objects__ 
+##Adding and Removing Objects 
 ##### [shader.addObject()](addObject.markdown)
 ##### [shader.removeObject()](removeObject.markdown)
 ##### [shader.getObjectList()](getObjectList.markdown)
 
-__Adjusting Shading Parameters__ 
+###Adjusting Shading Parameters
 ##### [shader.setAlpha()](setAlpha.markdown)
 ##### [shader.setIntensity()](setIntensity.markdown)
 ##### [shader.setZValue()](setZValue.markdown)
@@ -46,7 +46,7 @@ __Adjusting Shading Parameters__
 ##### [shader.setLinear()](setLinear.markdown)
 ##### [shader.setQuadratic()](setQuadratic.markdown)
 
-__Controlling the Dynamic Shading Engine__ 
+####Controlling the Dynamic Shading Engine
 ##### [shader.start()](start.markdown)
 ##### [shader.stop()](stop.markdown)
 ##### [shader.destroy()](destroy.markdown)
