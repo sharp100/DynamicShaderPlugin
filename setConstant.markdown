@@ -15,7 +15,7 @@ Used to set the [constant](https://developer.valvesoftware.com/wiki/Constant-Lin
 The [light attenuation](https://developer.valvesoftware.com/wiki/Constant-Linear-Quadratic_Falloff) table consists of three values {constant, linear, quadratic}
 The ratio of the 3 values determines the behavior of the Dynamic Shader's [1 Point Light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight).
 
-__Not used with__ [directional light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1dirlight)
+__Not__ used with [directional light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1dirlight)
 
 
 ## Syntax
