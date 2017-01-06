@@ -19,18 +19,22 @@ Returns a table with the current values used by the Dynamic Shader
 
 	shader.getLightTable( )
   
-  _*returns*_ a *table* with the current values used by the Dynamic Shader
-  
-  - table.effect = dirLight, 
-  - table.effectName = dirLightName, 
-  - table.zValue = 0.5, 
-  - table.alpha = 1, 
+  *returns* a __table__ with the current values used by the Dynamic Shader
+  local dirLight = "composite.normalMapWith1DirLight"
+local pointLight = "composite.normalMapWith1PointLight"
+local dirLightName = "directional light"
+local pointLightName = "1 point light"
+  - table.effect = string
+  > "composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"
+  - table.effectName = "directional light" or "1 point light"
+  - table.zValue = a value from 0 to 1 
+  - table.alpha = a value from 0 to 1 
   - table.color = {1, 1, 1, 1}, 
-  table.intensity = 0.5, 
-	table.constant = 0.9, 
-  table.linear = 0.6, 
-  table.quadratic = 0.9, 
-  table.engine = false
+  - table.intensity = a value from 0 to 1 
+  - table.constant = a value from 0 to 1  
+  - table.linear = a value from 0 to 1 
+  - table.quadratic = a value from 0 to 1 
+  - table.engine = Boolean
   
 ## Examples
 
