@@ -21,25 +21,25 @@ Returns a table with the current values used by the Dynamic Shader
   
   *returns* a __table__ with the current values used by the Dynamic Shader
   
-  - table.effect     = string
+  - table.effect	= string
   `"composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"`
-  - table.effectName = string
+  - table.effectName	= string
   `"directional light" or "1 point light"`
-  - table.color      = table
+  - table.color		= table
   `table = {red, blue, greed, alpha}`
-  - table.zValue     = number
+  - table.zValue	= number
   `a value from 0 to 1` 
-  - table.alpha      = number
+  - table.alpha		= number
   `a value from 0 to 1` 
-  - table.intensity  = number
+  - table.intensity	= number
   `a value from 0 to 1` 
-  - table.constant   = number
+  - table.constant	= number
   `a value from 0 to 1`  
-  - table.linear     = number
+  - table.linear	= number
   `a value from 0 to 1` 
-  - table.quadratic  = number
+  - table.quadratic	= number
   `a value from 0 to 1` 
-  - table.engine     = Boolean
+  - table.engine	= Boolean
   `true = "shader on" , false = "shader off"`
    
 ## Examples
