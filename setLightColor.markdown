@@ -4,7 +4,7 @@
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
-| __Return value__     | [TYPE]()
+| __Return value__     | 
 | __Keywords__         | 
 | __See also__         | 
 
@@ -23,7 +23,7 @@ _[Table](http://docs.coronalabs.com/api/type/Table.html)_  A table with RGB valu
 
 
 ### Format for `table`
-  table = {r, g, b)
+  table = {r, g, b}
 
   r = red value (0 to 1)
   g = green value (0 to 1)
