@@ -49,4 +49,13 @@ local shader = require 'plugin.dynamic-shader'
 
 local lightTable = shader.getLightTable( )
 
+print(lightTable.alpha)
+-- 1
+
+print(lightTable.effectName)
+-- "directional light"
+
+print(lightTable.engine)
+-- true
+
 ``````
