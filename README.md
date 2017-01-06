@@ -14,7 +14,7 @@ A Corona SDK plug-in for dynamically shading display objects in real time
 
 The Dynamic Shader plugin can be used in your [Corona](https://coronalabs.com/products/corona-sdk/) project. It enables you to add real time shading to your display objects.
 
-ADDITIONALLY, you will need to provide a normal map file for each object you wish to shade.
+ADDITIONALLY, you will need to provide a [normal map](https://en.wikipedia.org/wiki/Normal_mapping) file for each object you wish to shade.
 There are many applications that will allow you to easily create normal maps for your image files.
 We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) using their free trial option.  If you like it, please upgrade.
 
