@@ -26,13 +26,13 @@ Returns a table with the current values used by the Dynamic Shader
   - table.effectName	= [string](https://docs.coronalabs.com/api/type/String.html)
   `"directional light" or "1 point light"`
   - table.color		= [table](https://docs.coronalabs.com/api/type/Table.html)
-  `table = {red, blue, greed, alpha}`
-  - table.zValue	= [number](https://docs.coronalabs.com/api/type/Number.html)
-  `a value from 0 to 1` 
+  `table = {red, blue, greed, alpha}` 
   - table.alpha		= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1` 
   - table.intensity	= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1` 
+   - table.zValue	= [number](https://docs.coronalabs.com/api/type/Number.html)
+  `a value from 0 to 1`
   - table.constant	= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1`  
   - table.linear	= [number](https://docs.coronalabs.com/api/type/Number.html)
