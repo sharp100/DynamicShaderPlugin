@@ -28,11 +28,13 @@ a [display object](https://docs.coronalabs.com/api/type/DisplayObject/index.html
 
 ``````lua
 local shader = require 'plugin.dynamic-shader'
------add object.shader table------
-pug.shader = {}
-pug.shader.name = "pug_shader"
-pug.shader.map1 = "art/pug.png"
-pug.shader.map2 = "art/pug_n_white.png"
+
+-----add shaderInfo table to object------
+object.shaderInfo = {}  		    -- create the object.shaderInfo table
+object.shaderInfo.name = "object" 	    -- give the object a name or the shader will assign one
+object.shaderInfo.map1 = "art/object.png"   -- reference the image file
+object.shaderInfo.map2 = "art/object_n.png" -- refernece the normal map file
 -----------------------------------
+
 shader.addObject( object )
 ``````
