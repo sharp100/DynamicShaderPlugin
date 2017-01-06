@@ -20,7 +20,7 @@ Adds an object to the Dynamic Shader.
 
 
 ##### object <small>(required)</small>
-_[object]()._ a display object or physics object.
+a [display object](https://docs.coronalabs.com/api/type/DisplayObject/index.html) or [physics body](https://docs.coronalabs.com/guide/physics/physicsBodies/index.html).
 
 ## Examples
 
