@@ -3,7 +3,7 @@
 |                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
-| __Library__          | [shader.*](Readme.md)
+| __Library__          | [shader.*](README.md)
 | __Return value__     | [TYPE]()
 | __Keywords__         | 
 | __See also__         | 
