@@ -31,7 +31,7 @@ Returns a table with the current values used by the Dynamic Shader
   `a value from 0 to 1` 
   - table.intensity	= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1` 
-   - table.zValue	= [number](https://docs.coronalabs.com/api/type/Number.html)
+  - table.zValue	= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1`
   - table.constant	= [number](https://docs.coronalabs.com/api/type/Number.html)
   `a value from 0 to 1`  
