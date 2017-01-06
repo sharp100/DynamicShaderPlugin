@@ -29,7 +29,7 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 - [shader.addLight()](addLight.markdown)
 - [shader.removeLight()](removeLight.markdown)
 - [shader.setLightColor()](setLightColor.markdown)
-- [shader.setLightType()](setLightType.markdown)
+- [shader.switchLightType()](switchLightType.markdown)
 - [shader.getLightSource()](getLightSource.markdown)
 - [shader.getLightTable()](getLightTable.markdown)
 
