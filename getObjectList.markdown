@@ -21,7 +21,7 @@ Returns a table with all of the objects currently loaded into the Dynamic Shader
   _*returns*_ objectList, objectListNames
   
   - objectList: a [table](https://docs.coronalabs.com/api/type/Table.html) of all objects loaded to the shader via [addObject()](addObject.markdown) 
-  - objectListNames: a [table](https://docs.coronalabs.com/api/type/Table.html) of just the names of the objects
+  - objectListNames: a [table](https://docs.coronalabs.com/api/type/Table.html) with only the names of the objects from objectList
   
 ## Examples
 
