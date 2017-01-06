@@ -24,19 +24,21 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 	local shader = require "plugin.dynamic-shader"
 
 ### Functions
-__Light Source__ 
+__Controlling the Light Source__ 
 ##### [shader.addLight()](addLight.markdown)
 ##### [shader.removeLight()](removeLight.markdown)
 ##### [shader.setLightColor()](setLightColor.markdown)
+##### [shader.setLightType()](setLightType.markdown)
 ##### [shader.getLightSource()](getLightSource.markdown)
 ##### [shader.getLightTable()](getLightTable.markdown)
 
+__Adding and Removing Objects__ 
 ##### [shader.addObject()](addObject.markdown)
 ##### [shader.removeObject()](removeObject.markdown)
 ##### [shader.getObjectList()](getObjectList.markdown)
 
-##### [shader.setLightType()](setLightType.markdown)
 
+__Adjusting Shading Parameters__ 
 ##### [shader.setAlpha()](setAlpha.markdown)
 ##### [shader.setIntensity()](setIntensity.markdown)
 ##### [shader.setZValue()](setZValue.markdown)
@@ -44,6 +46,7 @@ __Light Source__
 ##### [shader.setLinear()](setLinear.markdown)
 ##### [shader.setQuadratic()](setQuadratic.markdown)
 
+__Controlling the Dynamic Shading Engine__ 
 ##### [shader.start()](start.markdown)
 ##### [shader.stop()](stop.markdown)
 ##### [shader.destroy()](destroy.markdown)
@@ -51,7 +54,7 @@ __Light Source__
 
 ### Properties
 
-##### [PLUGIN_NAME.PROPERTY](PROPERTY.markdown)
+##### [Dynamic Shader.PROPERTY](PROPERTY.markdown)
 
 ## Project Configuration
 
