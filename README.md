@@ -26,8 +26,8 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 ### Functions
 
 ####Controlling the Light Source 
-- __[shader.addLight()](addLight.markdown)__
-- __[shader.removeLight()](removeLight.markdown)__
+- [shader.addLight()](addLight.markdown)
+- [shader.removeLight()](removeLight.markdown)
 - __[shader.setLightColor()](setLightColor.markdown)__
 - __[shader.setLightType()](setLightType.markdown)__
 - __[shader.getLightSource()](getLightSource.markdown)__
