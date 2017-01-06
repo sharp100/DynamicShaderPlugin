@@ -26,12 +26,12 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 ### Functions
 
 ####Controlling the Light Source 
-- [shader.addLight()](addLight.markdown)
+- __[shader.addLight()](addLight.markdown)__
 - __[shader.removeLight()](removeLight.markdown)__
-- ##### [shader.setLightColor()](setLightColor.markdown)
-- ##### [shader.setLightType()](setLightType.markdown)
-- ##### [shader.getLightSource()](getLightSource.markdown)
-- ##### [shader.getLightTable()](getLightTable.markdown)
+- __[shader.setLightColor()](setLightColor.markdown)__
+- __[shader.setLightType()](setLightType.markdown)__
+- __[shader.getLightSource()](getLightSource.markdown)__
+- __[shader.getLightTable()](getLightTable.markdown)__
 
 ####Adding and Removing Objects 
 ##### [shader.addObject()](addObject.markdown)
