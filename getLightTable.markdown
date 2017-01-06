@@ -19,7 +19,7 @@ Returns a table with the current values used by the Dynamic Shader
 
 	shader.getLightTable( )
   
-  *returns* a __table__ with the current values used by the Dynamic Shader
+  __*returns*__ a [table](https://docs.coronalabs.com/api/type/Table.html) with the current shading values used by the Dynamic Shader
   
   - table.effect	= [string](https://docs.coronalabs.com/api/type/String.html)
   `"composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"`
