@@ -1,4 +1,4 @@
-# shader.getLightSource.markdown()
+# shader.getLightSource()
 
 |                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
