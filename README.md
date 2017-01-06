@@ -74,17 +74,13 @@ All you need to do is add an entry into a `plugins` table of your `build.setting
 ``````
 settings =
 {
-	plugins =
-	{
-		-- key is the name passed to Lua's 'require()'
-		["plugin.dynamic-shader"] =
-		{
-			-- required
-			publisherId = "REVERSE_PUBLISHER_URL",
-		},
-	},		
+    plugins =
+    {
+        ["plugin.dynamic-shader"] = { publisherId = "com.jusami" }
+    },      
 }
 ``````
+
 
 ### Enterprise
 
