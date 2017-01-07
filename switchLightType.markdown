@@ -12,7 +12,9 @@
 
 ## Overview
 
-Switches between tbe [Dynamic Shader's](README.md) [directional light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1dirlight) and [1 point light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight) settings.
+Switches between tbe [Dynamic Shader's](README.md) effect settings.
+- [directional light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1dirlight) 
+- [1 point light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight)
 
 
 ## Syntax
