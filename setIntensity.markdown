@@ -11,7 +11,7 @@
 
 ## Overview
 
-Used to set the intensity of the light source added to the Dynamic Shader via [addLight()](addLight.markdown)
+Used to set the intensity of the light source added to the [Dynamic Shader](README.md) via [addLight()](addLight.markdown)
 
 
 ## Syntax
