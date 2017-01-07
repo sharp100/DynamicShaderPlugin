@@ -20,8 +20,8 @@ Sets the level of Dynamic Shader debug information returned to the console via [
 [number](https://docs.coronalabs.com/api/type/Number.html) is a value between 0 and 2
 
 - 0 = no reporting
-- 1 = minor reporting
-- 2 = full reporting
+- 1 = report major events
+- 2 = report all 
 
 
 ## Examples
@@ -29,12 +29,10 @@ Sets the level of Dynamic Shader debug information returned to the console via [
 ``````lua
 local shader = require 'plugin.dynamic-shader'
 
-shader.setIntensity( 0.5 ) -- sets the light intensity for the Dynamic Shader to 50%
+shader.setDebugLevel( 0 ) -- no debug messaging
+shader.setDebugLevel( 1 ) -- [print()](https://docs.coronalabs.com/api/library/global/print.html) all debug messages to the console
+shader.setDebugLevel( 2 ) -- [print()](https://docs.coronalabs.com/api/library/global/print.html) all debug messages to the console
 
-local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
-
-print(lightTable.intensity)
--- 0.5
 
 
 ``````
