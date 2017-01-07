@@ -34,7 +34,7 @@ shader.setLinear( 0.5 ) -- sets the "linear" value for light attenuation in the 
 local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
 
 print(lightTable.linear)
--- 0.5
+-- OUTPUT: 0.5
 
 
 ``````
