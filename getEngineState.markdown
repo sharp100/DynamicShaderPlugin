@@ -4,14 +4,14 @@
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
-| __Return value__     | 
+| __Return value__     | [boolean](https://docs.coronalabs.com/api/type/Boolean.html)
 | __Keywords__         | 
 | __See also__         | [start()](start.markdown), [stop()](stop.markdown), [destroy()](destroy.markdown)
 
 
 ## Overview
 
-Returns a value (true or false) representing the state of the [Dynamic Shader](README.md) engine.
+Returns a [boolean](https://docs.coronalabs.com/api/type/Boolean.html) value representing the state of the [Dynamic Shader](README.md) engine.
  - true = [Dynamic Shader](README.md) is on
  - false = [Dynamic Shader](README.md) if off
 
