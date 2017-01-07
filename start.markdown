@@ -11,7 +11,7 @@
 
 ## Overview
 
-Starts the Dynamic Shader engine
+Starts the [Dynamic Shader](README.md) engine
 
 ## Syntax
 
