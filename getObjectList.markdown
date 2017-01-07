@@ -12,7 +12,7 @@
 
 ## Overview
 
-Returns a table with all of the objects currently loaded into the Dynamic Shader and a table with only the names of those objects.
+Returns a table with all of the objects currently loaded into the [Dynamic Shader](README.md) and a table with only the names of those objects.
 
 ## Syntax
 
