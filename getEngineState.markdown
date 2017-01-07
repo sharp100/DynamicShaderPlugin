@@ -11,7 +11,7 @@
 
 ## Overview
 
-Shortcut to engine value (true or false)
+Returns a value (true or false) representing the state of the [Dynamic Shader](README.md) engine.
  - true = [Dynamic Shader](README.md) is on
  - false = [Dynamic Shader](README.md) if off
 
