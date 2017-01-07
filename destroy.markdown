@@ -11,7 +11,7 @@
 
 ## Overview
 
-Removes all objects from the Dynamic Shader and stops the Dynamic Shader engine.
+Removes all objects from the [Dynamic Shader](README.md) and stops the Dynamic Shader engine.
 
 ## Syntax
 
