@@ -25,7 +25,7 @@ local shader = require 'plugin.dynamic-shader'
 local engine = shader.getEngineState() -- returns engine state
 
 print(engine)
--- true or false
+-- OUTPUT: true
 
 
 ``````
