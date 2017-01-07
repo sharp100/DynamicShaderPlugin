@@ -22,7 +22,7 @@ Shortcut to engine value (true or false)
 ``````lua
 local shader = require 'plugin.dynamic-shader'
 
-local engine = shader.getEngineState() -- returns engine state
+local engine = shader.getEngineState() -- returns engine state (true or false)
 
 print(engine)
 -- OUTPUT: true
