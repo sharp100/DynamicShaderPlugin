@@ -11,7 +11,7 @@
 
 ## Overview
 
-Used to set the color of the light source added to the Dynamic Shader via [addLight()](addLight.markdown)
+Used to set the color of the light source added to the [Dynamic Shader](README.md) via [addLight()](addLight.markdown)
 
 
 ## Syntax
@@ -19,7 +19,7 @@ Used to set the color of the light source added to the Dynamic Shader via [addLi
 	shader.setLightColor( table )
 
 ##### table <small>(required)</small>
-_[Table](http://docs.coronalabs.com/api/type/Table.html)_  A table with RGB values
+_[Table](http://docs.coronalabs.com/api/type/Table.html)_ with RGB values
 
 
 ### Format for `table`
