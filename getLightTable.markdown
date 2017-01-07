@@ -13,7 +13,7 @@
 ## Overview
 
 Returns a table with the current values used by the [Dynamic Shader](README.md)
-__note__ These values are only a snapshot of the moment the method is called.  If any value changes in the [Dynamic Shader](README.md) system, e.g. effect, color, alpha, intensity, zValue, constant, linear, quadratic, engine - getLightTable() will need to be called again to be accurate.
+__note__ These values are only a snapshot of the moment the method is called.  If any value changes in the [Dynamic Shader](README.md) system, e.g. effect, color, alpha, intensity, zValue, constant, linear, quadratic or engine, then getLightTable() will need to be called again to be accurate.
 
 
 ## Syntax
