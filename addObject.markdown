@@ -11,10 +11,10 @@
 
 ## Overview
 
-Adds an object to the Dynamic Shader.
+Adds an object to the [Dynamic Shader](README.md).
 The object can be a [display object](https://docs.coronalabs.com/api/type/DisplayObject/index.html) or [physics body](https://docs.coronalabs.com/guide/physics/physicsBodies/index.html).
 
-A table named "shader" must be attached to the object before it is added to the Dynamic Shader.  This table contains references to the image and normal map file for the object.
+A table named "shader" must be attached to the object before it is added to the [Dynamic Shader](README.md).  This table contains references to the image and normal map file for the object.
 
 ## Syntax
 
