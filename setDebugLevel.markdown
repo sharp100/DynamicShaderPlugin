@@ -6,7 +6,7 @@
 | __Library__          | [shader.*](README.md)
 | __Return value__     | 
 | __Keywords__         | 
-| __See also__         | [getDebugLevel()](setDebugLevel.markdown)
+| __See also__         | [getDebugLevel()](getDebugLevel.markdown)
 
 ## Overview
 
