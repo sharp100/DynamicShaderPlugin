@@ -31,7 +31,6 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 - [shader.setLightColor()](setLightColor.markdown)
 - [shader.switchLightType()](switchLightType.markdown)
 - [shader.getLightSource()](getLightSource.markdown)
-- [shader.getLightTable()](getLightTable.markdown)
 
 ####Adding and Removing Objects
 - [shader.addObject()](addObject.markdown)
@@ -51,6 +50,10 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 - [shader.stop()](stop.markdown)
 - [shader.destroy()](destroy.markdown)
 - [shader.getEngineState()](getEngineState.markdown)
+
+####Info and Debugging
+- [shader.setDebugLevel()](setDebugLevel.markdown)
+- [shader.getLightTable()](getLightTable.markdown)
 
 ## Project Configuration
 
