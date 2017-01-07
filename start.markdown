@@ -24,7 +24,7 @@ local shader = require 'plugin.dynamic-shader'
 
 shader.start() -- starts the Dynamic Shader engine
 
-local engineState = shader.getLightTable() -- get the current Dynamic Shader values
+local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
 
 print(lightTable.engine)
 -- true
