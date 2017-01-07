@@ -22,7 +22,7 @@ __Not used with__  [directional light](https://docs.coronalabs.com/guide/graphic
 
 	shader.setLinear( number )
 
-[number](https://docs.coronalabs.com/api/type/Number.html) value between 0 and 1
+[number](https://docs.coronalabs.com/api/type/Number.html) is a value between 0 and 1
 
 ## Examples
 
