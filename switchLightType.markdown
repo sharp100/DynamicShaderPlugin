@@ -35,4 +35,10 @@ shader.switchLightType( )
 -- example with return values
 local lightType, lightTypeName = shader.switchLightType( )
 
+print(lightType)
+-- OUTPUT: "composite.normalMapWith1DirLight"
+
+print(lightTypeName)
+-- OUTPUT: "directional light"
+
 ``````
