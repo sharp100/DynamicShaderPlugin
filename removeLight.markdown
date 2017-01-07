@@ -11,7 +11,7 @@
 
 ## Overview
 
-Removes the current light source for the Dynamic Shader.  The light source is set to the default location (0, 0) until a new light source ia added to the Dynamic Shader via [addLight()](addLight.markdown).
+Removes the current light source for the [Dynamic Shader](README.md).  The light source is set to the default location (0, 0) until a new light source ia added to the [Dynamic Shader](README.md) via [addLight()](addLight.markdown).
 
 
 ## Syntax
