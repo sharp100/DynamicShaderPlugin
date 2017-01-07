@@ -19,6 +19,10 @@ Sets the level of Dynamic Shader debug information returned to the console via [
 
 [number](https://docs.coronalabs.com/api/type/Number.html) is a value between 0 and 2
 
+- 0 = no reporting
+- 1 = minor reporting
+- 2 = full reporting
+
 
 ## Examples
 
