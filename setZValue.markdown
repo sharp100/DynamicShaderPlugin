@@ -30,7 +30,7 @@ shader.setZValue( 0.5 ) -- sets the position of the z-axis for the light used by
 local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
 
 print(lightTable.zValue)
--- 0.5
+-- OUTPUT: 0.5
 
 
 ``````
