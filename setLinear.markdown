@@ -11,9 +11,9 @@
 
 ## Overview
 
-Used to set the [linear](https://developer.valvesoftware.com/wiki/Constant-Linear-Quadratic_Falloff#Linear_Attenuation) value for light attenuation in the Dynamic Shader's [1 Point Light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight) setting.
+Used to set the [linear](https://developer.valvesoftware.com/wiki/Constant-Linear-Quadratic_Falloff#Linear_Attenuation) value for light attenuation in the [Dynamic Shader's](README.md) [1 Point Light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight) setting.
 The [light attenuation](https://developer.valvesoftware.com/wiki/Constant-Linear-Quadratic_Falloff) table consists of three values {constant, linear, quadratic}
-The ratio of the 3 values modifies the behavior of light in the Dynamic Shader's [1 Point Light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight).
+The ratio of the 3 values modifies the behavior of light in the [Dynamic Shader's](README.md) [1 Point Light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight).
 
 __Not used with__  [directional light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1dirlight)
 
@@ -22,7 +22,7 @@ __Not used with__  [directional light](https://docs.coronalabs.com/guide/graphic
 
 	shader.setLinear( number )
 
-[number](https://docs.coronalabs.com/api/type/Number.html) is a value between 0 and 1
+[number](https://docs.coronalabs.com/api/type/Number.html) value between 0 and 1
 
 ## Examples
 
