@@ -52,10 +52,6 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 - [shader.destroy()](destroy.markdown)
 - [shader.getEngineState()](getEngineState.markdown)
 
-### Properties
-
-##### [Dynamic Shader.PROPERTY](PROPERTY.markdown)
-
 ## Project Configuration
 
 ### Corona Store Activation
