@@ -29,7 +29,7 @@ local lightTable = shader.getLightTable() -- get the current Dynamic Shader valu
 print(lightTable.engine)
 -- false
 
-local objectList = [shader.getObjectList()](getObjectList.markdown)
+local objectList = shader.getObjectList()
 
 print(objectList)
 -- empty table
