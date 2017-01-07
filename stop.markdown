@@ -11,7 +11,7 @@
 
 ## Overview
 
-Stops the Dynamic Shader engine
+Stops the [Dynamic Shader](README.md) engine
 
 ## Syntax
 
