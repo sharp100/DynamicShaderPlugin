@@ -22,6 +22,19 @@ Add an object which will act as the light source for the Dynamic Shader.  The ob
 ##### object <small>(required)</small>
 _[object]()._ a display object or physics object.  A table with object.x and object.y values can also be used at your own risk.
 
+## /*NOTE
+The Dynamic Shader will attach a table named shaderInfo to the object 
+``````lua
+object.shaderInfo = {} 
+-- The Dynamic Shader adds shaderInfo table,
+object.shaderInfo.name = "I am the light source!" 
+-- gives the the light source a name and
+object.shaderInfo.available = true	
+-- creates an "available" value.  This will be helpful if you plan to move
+-- the light source with more than one method, e.g. following a touch event, following a touchjoint
+-- or moving with a transistion or translate command.
+``````
+
 ## Examples
 
 ``````lua
