@@ -30,7 +30,7 @@ shader.setAlpha( 0.5 ) -- sets the alpha value for the Dynamic Shader to 50%
 local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
 
 print(lightTable.alpha)
--- 0.5
+-- OUTPUT: 0.5
 
 
 ``````
