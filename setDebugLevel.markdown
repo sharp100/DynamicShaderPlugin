@@ -19,9 +19,9 @@ Sets the level of Dynamic Shader debug information returned to the console via [
 
 [number](https://docs.coronalabs.com/api/type/Number.html) is a value between 0 and 2
 
-- 0 = no reporting
-- 1 = report major events
-- 2 = report all 
+- 0 = no debug messages print() to console
+- 1 = major debug messages print() to console
+- 2 = all debug messages print() to console
 
 
 ## Examples
@@ -30,8 +30,8 @@ Sets the level of Dynamic Shader debug information returned to the console via [
 local shader = require 'plugin.dynamic-shader'
 
 shader.setDebugLevel( 0 ) -- no debug messaging
-shader.setDebugLevel( 1 ) -- [print()](https://docs.coronalabs.com/api/library/global/print.html) all debug messages to the console
-shader.setDebugLevel( 2 ) -- [print()](https://docs.coronalabs.com/api/library/global/print.html) all debug messages to the console
+shader.setDebugLevel( 1 ) -- major debug messages print() to console
+shader.setDebugLevel( 2 ) -- all debug messages print() to console
 
 
 
