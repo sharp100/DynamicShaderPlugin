@@ -12,7 +12,7 @@
 
 ## Overview
 
-Returns the Dynamic Shaader object assigned as the light source via [setLightColor()](setLightColor.markdown)
+Returns the [Dynamic Shader](README.md) object assigned as the light source via [setLightColor()](setLightColor.markdown)
 
 
 ## Syntax
