@@ -29,7 +29,7 @@ __Not used with__  [directional light](https://docs.coronalabs.com/guide/graphic
 ``````lua
 local shader = require 'plugin.dynamic-shader'
 
-shader.setLinear( 0.5 ) -- sets the "setLinear" value for light attenuation in the Dynamic Shader's 1 Point Light setting
+shader.setLinear( 0.5 ) -- sets the "linear" value for light attenuation in the Dynamic Shader's 1 Point Light setting
 
 local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
 
