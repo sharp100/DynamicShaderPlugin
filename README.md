@@ -1,5 +1,5 @@
 # Dynamic Shader
-A Corona SDK plug-in for dynamically shading display objects in real time
+A [Corona SDK](https://coronalabs.com/products/corona-sdk/) plug-in for dynamically shading display objects in real time
 
 # Dynamic Shader: Plugin API Docs
 
