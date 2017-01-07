@@ -34,7 +34,7 @@ shader.setQuadratic( 0.5 ) -- sets the "quadratic" value for light attenuation i
 local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
 
 print(lightTable.quadratic)
--- 0.5
+-- OUTPUT: 0.5
 
 
 ``````
