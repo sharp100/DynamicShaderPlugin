@@ -12,6 +12,8 @@
 ## Overview
 
 Shortcut to engine value (true or false)
+ - true = [Dynamic Shader](README.md) is on
+ - false = [Dynamic Shader](README.md) if off
 
 ## Syntax
 
