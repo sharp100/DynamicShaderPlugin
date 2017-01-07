@@ -16,7 +16,8 @@ Shortcut to engine value (true or false)
 ## Syntax
 
 	shader.getEngineState()
-  __*returns*__ true or false
+  __*returns*__ 
+  - true or false
 ## Examples
 
 ``````lua
