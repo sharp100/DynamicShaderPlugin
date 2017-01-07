@@ -17,7 +17,7 @@ Returns the current debug level of the [Dynamic Shader](README.md)
 
 	shader.getDebugLevel()
 
---returns-- a [number](https://docs.coronalabs.com/api/type/Number.html) between 0 and 2
+__returns__ a [number](https://docs.coronalabs.com/api/type/Number.html) between 0 and 2
 
 - 0 = no debug messages print() to console
 - 1 = major debug messages print() to console
