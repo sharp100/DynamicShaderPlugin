@@ -31,9 +31,9 @@ local shader = require 'plugin.dynamic-shader'
 local objectList, objectListNames = shader.getObjectList( )
 
 print(objectList[1])
--- object
+-- OUTPUT: object
 
 print(objectListNames[1])
--- "object name"
+-- OUTPUT: "object name"
 
 ``````
