@@ -6,11 +6,11 @@
 | __Library__          | [shader.*](README.md)
 | __Return value__     | 
 | __Keywords__         | 
-| __See also__         | 
+| __See also__         | [getDebugLevel()](setDebugLevel.markdown)
 
 ## Overview
 
-Sets the level of Dynamic Shader debug information returned to the console via [print()](https://docs.coronalabs.com/api/library/global/print.html) functions
+Sets the level of [Dynamic Shader](README.md) debug information returned to the console via [print()](https://docs.coronalabs.com/api/library/global/print.html) functions
 
 
 ## Syntax
