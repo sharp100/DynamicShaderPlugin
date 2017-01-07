@@ -30,7 +30,7 @@ shader.setIntensity( 0.5 ) -- sets the light intensity for the Dynamic Shader to
 local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
 
 print(lightTable.intensity)
--- 0.5
+-- OUTPUT: 0.5
 
 
 ``````
