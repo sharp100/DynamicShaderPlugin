@@ -34,7 +34,7 @@ shader.setConstant( 0.5 ) -- sets the "constant" value for light attenuation in 
 local lightTable = shader.getLightTable() -- get the current Dynamic Shader values
 
 print(lightTable.constant)
--- 0.5
+-- OUTPUT: 0.5
 
 
 ``````
