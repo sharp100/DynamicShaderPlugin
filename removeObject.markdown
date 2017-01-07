@@ -11,7 +11,7 @@
 
 ## Overview
 
-Removes an object from the Dynamic Shader.
+Removes an object from the [Dynamic Shader](README.md).
 
 ## Syntax
 
