@@ -57,6 +57,27 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 
 ### Parameters
 
+- table.effect	= [string](https://docs.coronalabs.com/api/type/String.html)
+  `"composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"`
+ - table.effectName	= [string](https://docs.coronalabs.com/api/type/String.html)
+  `"directional light" or "1 point light"`
+  - table.color		= [table](https://docs.coronalabs.com/api/type/Table.html)
+  `table = {red, blue, greed, alpha}` 
+  - table.alpha		= [number](https://docs.coronalabs.com/api/type/Number.html)
+  `a value from 0 to 1` 
+  - table.intensity	= [number](https://docs.coronalabs.com/api/type/Number.html)
+  `a value from 0 to 1` 
+  - table.zValue	= [number](https://docs.coronalabs.com/api/type/Number.html)
+  `a value from 0 to 1`
+  - table.constant	= [number](https://docs.coronalabs.com/api/type/Number.html)
+  `a value from 0 to 1`  
+  - table.linear	= [number](https://docs.coronalabs.com/api/type/Number.html)
+  `a value from 0 to 1` 
+  - table.quadratic	= [number](https://docs.coronalabs.com/api/type/Number.html)
+  `a value from 0 to 1` 
+  - table.engine	= [Boolean](https://docs.coronalabs.com/api/type/Boolean.html)
+  `true = "shader on" , false = "shader off"`
+
 
 
 ## Project Configuration
