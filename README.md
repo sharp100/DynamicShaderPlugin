@@ -57,9 +57,9 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 
 ### Parameters
 
-- table.effect	= [string](https://docs.coronalabs.com/api/type/String.html)
+  - table.effect	= [string](https://docs.coronalabs.com/api/type/String.html)
   `"composite.normalMapWith1DirLight" or "composite.normalMapWith1PointLight"`
- - table.effectName	= [string](https://docs.coronalabs.com/api/type/String.html)
+  - table.effectName	= [string](https://docs.coronalabs.com/api/type/String.html)
   `"directional light" or "1 point light"`
   - table.color		= [table](https://docs.coronalabs.com/api/type/Table.html)
   `table = {red, blue, greed, alpha}` 
