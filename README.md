@@ -55,6 +55,10 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 - [shader.setDebugLevel()](setDebugLevel.markdown)
 - [shader.getLightTable()](getLightTable.markdown)
 
+### Parameters
+
+
+
 ## Project Configuration
 
 ### Corona Store Activation
