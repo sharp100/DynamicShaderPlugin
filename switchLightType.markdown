@@ -14,11 +14,9 @@
 
 Switches between tbe [Dynamic Shader's](README.md) two light type settings.
 - [directional light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1dirlight)
-- [1 point light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight)
+- [1 point light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight) __BETA__
 
 *the default setting is directional light*
-
-__1 point light is functional but currently in *Beta* __
 
 
 ## Syntax
