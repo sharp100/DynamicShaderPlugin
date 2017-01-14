@@ -100,7 +100,7 @@ settings =
 {
     plugins =
     {
-        ["plugin.dynamic-shader"] = { publisherId = "com.jusami" }
+        ["plugin.dynamic-shader"] = { publisherId = "com.sporkfin" }
     },      
 }
 ``````
