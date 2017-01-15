@@ -32,8 +32,8 @@ local shader = require 'plugin.dynamic-shader'
 -----add shaderInfo table to object------
 object.shaderInfo = {  		    -- create the object.shaderInfo table
 	name = "object", 	    -- optional parameter - gives the object a name or the shader will assign one
-	map1 = "art/object.png",   -- reference the image file
-	map2 = "art/object_n.png" -- refernece the normal map file
+	map1 = "art/object.png",    -- reference the image file
+	map2 = "art/object_n.png"   -- refernece the normal map file
 }
 -----------------------------------
 shader.addObject( object )  -- add object to the Dynamic Shader
