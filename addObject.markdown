@@ -30,12 +30,12 @@ a [display object](https://docs.coronalabs.com/api/type/DisplayObject/index.html
 local shader = require 'plugin.dynamic-shader'
 
 -----add shaderInfo table to object------
-object.shaderInfo = {}  		    -- create the object.shaderInfo table
-object.shaderInfo.name = "object" 	    -- give the object a name or the shader will assign one
-object.shaderInfo.map1 = "art/object.png"   -- reference the image file
-object.shaderInfo.map2 = "art/object_n.png" -- refernece the normal map file
+object.shaderInfo = {  		    -- create the object.shaderInfo table
+	name = "object", 	    -- give the object a name or the shader will assign one
+	map1 = "art/object.png",   -- reference the image file
+	map2 = "art/object_n.png" -- refernece the normal map file
+}
 -----------------------------------
-
 shader.addObject( object )  -- add object to the Dynamic Shader
 
 shader.start()  -- turn on the Dynamic Shader
