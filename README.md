@@ -21,7 +21,7 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 
 ## Syntax
 
-	local shader = require "plugin.dynamic-shader"
+	local shader = require "plugin.dynamic_shader"
 
 ### Functions
 
