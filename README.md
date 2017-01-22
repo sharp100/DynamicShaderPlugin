@@ -7,7 +7,7 @@ A [Corona SDK](https://coronalabs.com/products/corona-sdk/) plug-in for dynamica
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [Library](http://docs.coronalabs.com/api/type/Library.html)
 | __Corona Store__     | [Dynamic Shader](http://store.coronalabs.com/plugin/dynamic-shader)
-| __Visual Guide__     | [Visual Guide](http://dynamicshader.weebly.com/)
+| __Visual Guide__     | [Visual Guide](http://dynamicshader.com/)
 
 
 ## Overview
