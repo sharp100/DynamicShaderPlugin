@@ -5,8 +5,7 @@
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
 | __Return value__     | objectList, objectListNames
-| __Keywords__         | 
-| __See also__         | 
+| __Visual Guide__     | [Visual Guide](http://dynamicshader.com/)
 
 
 
