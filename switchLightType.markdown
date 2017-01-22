@@ -5,8 +5,8 @@
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
 | __Return value__     | [string](https://docs.coronalabs.com/api/type/String.html)
-| __Keywords__         | 
-| __See also__         | 
+| __Keywords__         | [directional light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1dirlight), [1 point light](https://docs.coronalabs.com/guide/graphics/effects.html#composite.normalmapwith1pointlight)
+| __Visual Guide__     | [Visual Guide](http://dynamicshader.com/)
 
 
 
