@@ -4,9 +4,8 @@
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
-| __Return value__     | 
-| __Keywords__         | 
 | __See also__         | [removeObject()](removeObject.markdown)
+| __Visual Guide__     | [Visual Guide](http://dynamicshader.com/)
 
 
 ## Overview
