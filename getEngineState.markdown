@@ -5,8 +5,8 @@
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
 | __Return value__     | [boolean](https://docs.coronalabs.com/api/type/Boolean.html)
-| __Keywords__         | 
 | __See also__         | [start()](start.markdown), [stop()](stop.markdown), [destroy()](destroy.markdown)
+| __Visual Guide__     | [Visual Guide](http://dynamicshader.com/)
 
 
 ## Overview
