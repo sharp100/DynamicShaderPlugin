@@ -126,9 +126,8 @@ You can access sample code [here](SAMPLE_CODE_URL).
 
 More support is available from the PUBLISHER_NAME team:
 
-* [E-mail](mailto://PUBLISHER_CONTACT@PUBLISHER_URL)
-* [Forum](http://FORUM_URL)
-* [Plugin Publisher](http://PUBLISHER_URL)
+* [E-mail](mailto://sporkfin@gmail.com)
+* [Plugin Publisher](http://sporkfin.com)
 
 
 ## Compatibility
