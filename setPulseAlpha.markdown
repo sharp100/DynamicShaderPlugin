@@ -4,13 +4,13 @@
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
-| __See also__         | [setPulseAlpha()](setPulseAlpha.markdown), [setPulseIntensity()](setPulseIntensity.markdown), [setPulseZValue()](setPulseZValue.markdown)
+| __See also__         | [setPulseAlpha()](setPulseAlpha.markdown), [setPulseAlpha_up()](setPulseAlpha_up.markdown), [setPulseAlpha_down()](setPulseAlpha_down.markdown), [setPulseIntensity()](setPulseIntensity.markdown), [setPulseIntensity_up()](setPulseIntensity_up.markdown), [setPulseIntensity_down()](setPulseIntensity_down.markdown), [setPulseZValue()](setPulseZValue.markdown),[setPulseZValue_up()](setPulseZValue_up.markdown), [setPulseZValue_down()](setPulseZValue_down.markdown)
 | __Visual Guide__     | [Visual Guide](http://dynamicshader.com/)
 
 
 ## Overview
 
-Determines whether or not the Dynamic Shader's alpha is reactive to the pulse
+Determines if the Dynamic Shader's alpha is reactive to the pulse or not
 
 
 ## Syntax
