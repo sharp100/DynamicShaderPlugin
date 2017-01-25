@@ -12,25 +12,25 @@
 
 ## Overview
 
-Determines if the Dynamic Shader's alpha is reactive to the pulse or not
+Determines if the Dynamic Shader's intensity value is reactive to the pulse or not
 
 
 ## Syntax
 
-	shader.setPulseAlpha( boolean )
+	shader.setPulseIntensity( boolean )
 
 [boolean value](https://docs.coronalabs.com/api/type/Boolean.html)
- - true  : The Dynamic Shader's alpha value will react to the pulse
- - false : The Dynamic Shader's alpha value will __NOT__ react to the pulse
+ - true  : The Dynamic Shader's intensity value will react to the pulse
+ - false : The Dynamic Shader's intensity value will __NOT__ react to the pulse
 
 ## Examples
 
 ``````lua
 local shader = require 'plugin.dynamic_shader'
 
-shader.setPulseAlpha( true ) -- The Dynamic Shader's alpha value will react to the pulse
+shader.setPulseIntensity( true ) -- The Dynamic Shader's intensity value will react to the pulse
 
-shader.setPulseAlpha( false ) -- The Dynamic Shader's alpha value will NOT react to the pulse
+shader.setPulseIntensity( false ) -- The Dynamic Shader's intensity value will NOT react to the pulse
 
 
 ``````
