@@ -137,7 +137,7 @@ You can access sample code [here](https://github.com/sharp100/Dynamic-Shader-Sam
 
 More support is available from the PUBLISHER_NAME team:
 
-* [E-mail](mailto://sporkfin@gmail.com)
+* [E-mail](mailto:sporkfin@gmail.com)
 * [Plugin Publisher](http://sporkfin.com)
 
 
