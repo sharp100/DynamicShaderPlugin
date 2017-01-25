@@ -18,8 +18,8 @@ Used to turn the pulse alpha trait on and off.
 	shader.setPulseAlpha( boolean )
 
 Returns a [boolean](https://docs.coronalabs.com/api/type/Boolean.html) value representing the state of the [Dynamic Shader](README.md) engine.
- - true = The Dynamic Shader's alpha value will be reactive to the pulse
- - false = The Dynamic Shader's alpha value will __NOT__ be reactive to the pulse
+ - true  : The Dynamic Shader's alpha value will be reactive to the pulse
+ - false : The Dynamic Shader's alpha value will __NOT__ be reactive to the pulse
 
 ## Examples
 
@@ -32,4 +32,3 @@ shader.setPulseAlpha( false ) -- The Dynamic Shader's alpha value will NOT be re
 
 
 ``````
-over
