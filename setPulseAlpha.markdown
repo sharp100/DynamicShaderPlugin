@@ -24,7 +24,7 @@ Used to turn the pulse alpha trait on and off.
 ## Examples
 
 ``````lua
-local shader = require 'plugin.dynamic-shader'
+local shader = require 'plugin.dynamic_shader'
 
 shader.setPulseAlpha( true ) -- The Dynamic Shader's alpha value will be reactive to the pulse
 
