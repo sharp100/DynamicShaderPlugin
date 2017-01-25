@@ -10,7 +10,7 @@
 
 ## Overview
 
-Used to turn the pulse alpha trait on and off.
+Determines whether or not the Dynamic Shader's alpha is reactive to the pulse
 
 
 ## Syntax
