@@ -24,7 +24,7 @@ Returns a table with all of the objects currently loaded into the [Dynamic Shade
 ## Examples
 
 ``````lua
-local shader = require 'plugin.dynamic-shader'
+local shader = require 'plugin.dynamic_shader'
 
 -- example with return values
 local objectList, objectListNames = shader.getObjectList( )
