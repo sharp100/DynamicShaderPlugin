@@ -56,15 +56,31 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 - [shader.getLightTable()](getLightTable.markdown)
 
 ### Pulse Functions
+
+####Pulse Alpha
 - [setPulseAlpha()](setPulseAlpha.markdown)
 - [setPulseAlpha_up()](setPulseAlpha_up.markdown)
 - [setPulseAlpha_down()](setPulseAlpha_down.markdown)
+
+####Pulse Intensity
 - [setPulseIntensity()](setPulseIntensity.markdown)
 - [setPulseIntensity_up()](setPulseIntensity_up.markdown)
 - [setPulseIntensity_down()](setPulseIntensity_down.markdown)
+
+####Pulse zValue
 - [setPulseZValue()](setPulseZValue.markdown)
 - [setPulseZValue_up()](setPulseZValue_up.markdown)
 - [setPulseZValue_down()](setPulseZValue_down.markdown)
+
+####Pulse Time
+- [setPulseTime_up()](setTime_up.markdown)
+- [setPulseTime_down()](setTime_down.markdown)
+- [setPulsePause()](setPause_up.markdown)
+- [setPulseDelay()](setPause_down.markdown)
+
+####Pulse Easing
+- [setPulseEasing_up()](setEase_up.markdown)
+- [setPulseEasing_down()](setEase_down.markdown)
 
 ### Parameters
 
@@ -137,7 +153,7 @@ You can access sample code [here](https://github.com/sharp100/Dynamic-Shader-Sam
 
 More support is available from the PUBLISHER_NAME team:
 
-* [E-mail](mailto:sporkfin@gmail.com)
+* [E-mail](mailto://sporkfin@gmail.com)
 * [Plugin Publisher](http://sporkfin.com)
 
 
