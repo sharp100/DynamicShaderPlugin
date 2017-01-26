@@ -4,7 +4,7 @@
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
-| __See Also __        | [setPulseEasing_down()](setPulseEasing_down.markdown)
+| __See Also__        | [setPulseEasing_down()](setPulseEasing_down.markdown)
 | __Visual Guide__     | [Visual Guide](http://dynamicshader.com/)
 
 
