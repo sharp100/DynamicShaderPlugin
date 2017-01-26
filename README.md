@@ -79,8 +79,8 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 - [setPulseDelay()](setPulseDelay.markdown)
 
 ####Pulse Easing
-- [setPulseEasing_up()](setEase_up.markdown)
-- [setPulseEasing_down()](setEase_down.markdown)
+- [setPulseEasing_up()](setPulseEasing_up.markdown)
+- [setPulseEasing_down()](setPulseEasing_down.markdown)
 
 ### Parameters
 
