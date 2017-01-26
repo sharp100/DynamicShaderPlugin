@@ -73,10 +73,10 @@ We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteillumina
 - [setPulseZValue_down()](setPulseZValue_down.markdown)
 
 ####Pulse Time
-- [setPulseTime_up()](setTime_up.markdown)
-- [setPulseTime_down()](setTime_down.markdown)
-- [setPulsePause()](setPause_up.markdown)
-- [setPulseDelay()](setPause_down.markdown)
+- [setPulseTime_up()](setPulseTime_up.markdown)
+- [setPulseTime_down()](setPulseTime_down.markdown)
+- [setPulsePause()](setPulsePause.markdown)
+- [setPulseDelay()](setPulseDelay.markdown)
 
 ####Pulse Easing
 - [setPulseEasing_up()](setEase_up.markdown)
