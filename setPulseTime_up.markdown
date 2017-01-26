@@ -4,7 +4,7 @@
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [shader.*](README.md)
-| __See Also__         | [setPulseTime_down()](setPulseTime_down.markdown), [setPulsePause_up()](setPulsePause_up.markdown), [setPulsePause_down()](setPulsePause_down.markdown)
+| __See Also__         | [setPulseTime_down()](setPulseTime_down.markdown), [setPulsePause()](setPulsePause.markdown), [setPulseDelay()](setPulseDelay.markdown)
 | __Visual Guide__     | [Visual Guide](http://dynamicshader.com/)
 
 
