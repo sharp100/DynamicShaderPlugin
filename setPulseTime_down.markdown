@@ -10,7 +10,7 @@
 
 ## Overview
 
-Sets the time for the outward pulse
+Sets the time for the inward pulse
 
 
 ## Syntax
