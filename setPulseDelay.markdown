@@ -10,7 +10,7 @@
 
 ## Overview
 
-Sets the delay between pulse cycles (pulse cycle 1 . . . __delay__ . . . pulse cycle 2, etc.)
+Sets the length of the delay between pulse cycles (pulse cycle 1 . . . __delay__ . . . pulse cycle 2, etc.)
 
 
 ## Syntax
