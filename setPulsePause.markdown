@@ -10,7 +10,7 @@
 
 ## Overview
 
-Pauses between the outward pulse and the inward pulse
+Sets the length of the pause between the outward pulse and the inward pulse
 
 
 ## Syntax
