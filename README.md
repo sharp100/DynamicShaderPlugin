@@ -18,7 +18,7 @@ ADDITIONALLY, you will need to provide a [normal map](https://en.wikipedia.org/w
 There are many applications that will allow you to easily create normal maps for your image files.
 We suggest trying [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) using their free trial option.  If you like it, please upgrade.
 
-_*note*_ The Dynamic Shader does not support image sheets
+The Dynamic Shader does NOT support image sheets
 
 
 ## Syntax
