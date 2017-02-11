@@ -25,6 +25,6 @@ a [display object](https://docs.coronalabs.com/api/type/DisplayObject/index.html
 ``````lua
 local shader = require 'plugin.dynamic-shader'
 
-shader.removeObject( object )  -- add object to the Dynamic Shader
+shader.removeObject( object )  -- remove object to the Dynamic Shader
 
 ``````
