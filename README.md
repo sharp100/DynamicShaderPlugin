@@ -27,19 +27,19 @@ The Dynamic Shader does NOT support image sheets
 
 ### Functions
 
-####Controlling the Light Source 
+#### Controlling the Light Source 
 - [shader.addLight()](addLight.markdown)
 - [shader.removeLight()](removeLight.markdown)
 - [shader.setLightColor()](setLightColor.markdown)
 - [shader.switchLightType()](switchLightType.markdown)
 - [shader.getLightSource()](getLightSource.markdown)
 
-####Adding and Removing Objects
+#### Adding and Removing Objects
 - [shader.addObject()](addObject.markdown)
 - [shader.removeObject()](removeObject.markdown)
 - [shader.getObjectList()](getObjectList.markdown)
 
-####Adjusting Shading Parameters
+#### Adjusting Shading Parameters
 - [shader.setAlpha()](setAlpha.markdown)
 - [shader.setIntensity()](setIntensity.markdown)
 - [shader.setZValue()](setZValue.markdown)
@@ -47,7 +47,7 @@ The Dynamic Shader does NOT support image sheets
 - [shader.setLinear()](setLinear.markdown)
 - [shader.setQuadratic()](setQuadratic.markdown)
 
-####Controlling the Dynamic Shading Engine
+#### Controlling the Dynamic Shading Engine
 - [shader.start()](start.markdown)
 - [shader.stop()](stop.markdown)
 - [shader.destroy()](destroy.markdown)
@@ -59,28 +59,28 @@ The Dynamic Shader does NOT support image sheets
 
 ### Pulse Functions
 
-####Pulse Alpha
+#### Pulse Alpha
 - [setPulseAlpha()](setPulseAlpha.markdown)
 - [setPulseAlpha_up()](setPulseAlpha_up.markdown)
 - [setPulseAlpha_down()](setPulseAlpha_down.markdown)
 
-####Pulse Intensity
+#### Pulse Intensity
 - [setPulseIntensity()](setPulseIntensity.markdown)
 - [setPulseIntensity_up()](setPulseIntensity_up.markdown)
 - [setPulseIntensity_down()](setPulseIntensity_down.markdown)
 
-####Pulse zValue
+#### Pulse zValue
 - [setPulseZValue()](setPulseZValue.markdown)
 - [setPulseZValue_up()](setPulseZValue_up.markdown)
 - [setPulseZValue_down()](setPulseZValue_down.markdown)
 
-####Pulse Time
+#### Pulse Time
 - [setPulseTime_up()](setPulseTime_up.markdown)
 - [setPulseTime_down()](setPulseTime_down.markdown)
 - [setPulsePause()](setPulsePause.markdown)
 - [setPulseDelay()](setPulseDelay.markdown)
 
-####Pulse Easing
+#### Pulse Easing
 - [setPulseEasing_up()](setPulseEasing_up.markdown)
 - [setPulseEasing_down()](setPulseEasing_down.markdown)
 
