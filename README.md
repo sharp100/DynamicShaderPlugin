@@ -53,7 +53,7 @@ The Dynamic Shader does NOT support image sheets
 - [shader.destroy()](destroy.markdown)
 - [shader.getEngineState()](getEngineState.markdown)
 
-####Info and Debugging
+#### Info and Debugging
 - [shader.setDebugLevel()](setDebugLevel.markdown)
 - [shader.getLightTable()](getLightTable.markdown)
 
